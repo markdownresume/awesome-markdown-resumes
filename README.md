@@ -83,6 +83,7 @@ Markdown resumes combine the simplicity of plain text with the power of version 
 ## Related Projects
 
 - [Awesome Resume](https://github.com/resumejob/awesome-resume) - Broader list of resume resources.
+- [ResumeAI](https://withresumeai.com/ats-checker) - Free ATS resume checker (3/day anonymous, 10/day free account); [State of ATS 2026](https://withresumeai.com/reports/state-of-ats-2026) (738 employers, Workday 37.9%).
 - [Awesome CV](https://github.com/posquit0/Awesome-CV) - LaTeX resume templates.
 - [JSON Resume](https://github.com/jsonresume) - JSON-based resume ecosystem.
 
