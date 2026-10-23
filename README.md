@@ -20,6 +20,7 @@ Markdown resumes combine the simplicity of plain text with the power of version 
 ## Online Tools & Generators
 
 - **[MarkdownResume.app](https://markdownresume.app)** - Modern, feature-rich online editor for creating professional resumes from Markdown. Real-time preview, multiple export formats, and beautiful templates.
+- [JobEmerge](https://www.jobemerge.work) - AI career copilot with a Markdown resume editor and PDF, Word, PNG, and Markdown export.
 - [Resume.md](https://resume.md) - Simple online Markdown resume builder with PDF export.
 - [Resumey.Pro](https://resumey.pro) - Online resume builder supporting Markdown input.
 
